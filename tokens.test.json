@@ -341,6 +341,22 @@
     },
     {
       "chainId": 10002,
+      "address": "0xB0649F8855f2333a1285b9207208EaC53201A64D",
+      "name": "HyperProtocol",
+      "symbol": "HP",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/677/thumb/basic-attention-token.png?1547034427"
+    },
+    {
+      "chainId": 10002,
+      "address": "0x9f2ec466B72A319F3bA8dc64E9a223795384feB3",
+      "name": "EthPowToken",
+      "symbol": "EthwToken",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/677/thumb/basic-attention-token.png?1547034427"
+    },
+    {
+      "chainId": 10002,
       "address": "0xF17e65822b568B3903685a7c9F496CF7656Cc6C2",
       "name": "Biconomy",
       "symbol": "BICO",
